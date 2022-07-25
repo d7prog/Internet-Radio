@@ -23,7 +23,7 @@ Software is based on Schreibfaul1 librray for
 https://github.com/schreibfaul1/ESP32-audioI2S which perfectly works with  PCM5102A modules
 
 Wyatt59 Audioeth library, which is a modified ESP32-audioI2S library for use with Arduino Ethernet library.
-https://github.com/schreibfaul1/ESP32-audioI2S/files/9173837/Audioeth.zip
+https://github.com/schreibfaul1/ESP32-audioI2S/files/8943164/Audioeth.zip
 
 Nkawu TFT ILI 9225 display library https://github.com/Nkawu/TFT_22_ILI9225
 
@@ -33,3 +33,17 @@ https://github.com/crankyoldgit/IRremoteESP8266
 Arduino Ethernet Library
 https://github.com/arduino-libraries/Ethernet
 
+
+## Software installation
+1. Install all necessary Arduino software libraries via Arduino IDE Library Manager.
+
+2. To install Wyatt59 Audioeth ethernet support just do the following:
+Open Arduino/libraries/ESP32-audioI2S/src folder and copy Audioeth.cpp and Audioeth.h files to this folder. So the folder will consist of the following files:
+Audio.cpp 
+Audio.h
+Audioeth.cpp
+Audioeth.h
+
+2. Create new Arduino sketch called internet_radio_eth_1.0.
+3. Copy all files from the GitHub source folder to newly created Arduino sketch folder (the original  internet_radio_eth_1.0.ino will be rewrite).
+4. Compile and download to ESP32 as usually.
