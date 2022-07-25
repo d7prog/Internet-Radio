@@ -33,7 +33,7 @@ Arduino Ethernet Library
 https://github.com/arduino-libraries/Ethernet
 
 
-## Software installation
+## Installation instructions
 1. Install all above mentioned Arduino software libraries via Arduino IDE Library Manager.
 
 2. To install Wyatt59 Audioeth ethernet support just do the following:<br/>
