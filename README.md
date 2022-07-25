@@ -50,7 +50,7 @@ Audioeth.h<br/>
 
 ## Notes
 Internet radio has 10 preset stations which can be selected using IR remote controller. You can use any old IR remote controller however you need to use correct IR codes.<br>
-For this reason use [ir_decoder]: https://www.somewebsite.orghttps://github.com/d7prog/Internet-Radio/blob/main/util/ir_decoder.ino to record codes from the IR controller.
+For this reason use [ir_decoder]: https://github.com/d7prog/Internet-Radio/blob/main/util/ir_decoder.ino to record codes from the IR controller.
 Than modify the switch → case statements accordingly in the void loop{} function in the internet_radio_eth_1.0.ino file. Codes needs to be in hex format.
 
 You can use the following commands
