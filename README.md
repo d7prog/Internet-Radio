@@ -17,3 +17,4 @@ IR receiver:		TSOP4838
 Power supply converter: LM3940
 
 ## The complete schematic diagram with all components
+![](/blob/main/internet_radio.jpg?raw=true "Schematic diagram")
