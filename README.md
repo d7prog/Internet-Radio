@@ -6,12 +6,12 @@ There are many tutorials available on the Internet on this topic, however most o
 
 
 ## Used components
-Controller:		      ESP32 development board
-I2S D/A converter:	PCM5102A with line output, equipped with 3.5mm stereo audio connector and 2 CINCH connectors.
-TFT Display:		    2.0" 176x220 TFT display, ILI9225, SPI
-Ethernet module:	  WIZ850io
-IR receiver:		    TSOP4838
-Power supply:       LM3940
+Controller:		      ESP32 development board<br/>
+I2S D/A converter:	PCM5102A with line output, equipped with 3.5mm stereo audio connector and 2 CINCH connectors<br/>
+TFT Display:		    2.0" 176x220 TFT display, ILI9225, SPI<br/>
+Ethernet module:	  WIZ850io<br/>
+IR receiver:		    TSOP4838<br/>
+Power supply:       LM3940<br/>
 
 
 ## Schematic diagram
