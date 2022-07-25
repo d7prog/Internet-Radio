@@ -37,12 +37,12 @@ https://github.com/arduino-libraries/Ethernet
 ## Software installation
 1. Install all above mentioned Arduino software libraries via Arduino IDE Library Manager.
 
-2. To install Wyatt59 Audioeth ethernet support just do the following:
-Open Arduino/libraries/ESP32-audioI2S/src folder and copy Audioeth.cpp and Audioeth.h files to this folder. So the folder will consist of the following files:
-Audio.cpp 
-Audio.h
-Audioeth.cpp
-Audioeth.h
+2. To install Wyatt59 Audioeth ethernet support just do the following:<br/>
+Open Arduino/libraries/ESP32-audioI2S/src folder and copy Audioeth.cpp and Audioeth.h files to this folder. So the folder will consist of the following files:<br/>
+Audio.cpp<br/> 
+Audio.h<br/>
+Audioeth.cpp<br/>
+Audioeth.h<br/>
 
 2. Create new Arduino sketch called internet_radio_eth_1.0.
 3. Copy all files from the GitHub source folder to newly created Arduino sketch folder (the original  internet_radio_eth_1.0.ino will be rewrite).
