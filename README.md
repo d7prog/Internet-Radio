@@ -53,7 +53,7 @@ Internet radio has 10 preset stations which can be selected using IR remote cont
 For this reason use [ir_decoder](https://github.com/d7prog/Internet-Radio/blob/main/util/ir_decoder.ino) to record codes from the IR controller.<br>
 Than modify the switch → case statements accordingly in the void loop{} function in the internet_radio_eth_1.0.ino file. Codes needs to be in hex format.
 
-You can use the following commands
-Select station number 1 – 9 (station 10 is 0)
-Increase/decrease volume using Vol+/Vol-
+You can use the following commands<br>
+Select station number 1 – 9 (station 10 is 0)<br>
+Increase/decrease volume using Vol+/Vol-<br>
 Mute sound (use mute button or any button you select)
