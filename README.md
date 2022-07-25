@@ -58,7 +58,7 @@ Increase/decrease volume using Vol+/Vol-<br>
 Mute sound (use mute button or any button you select)
 
 
-<!---
+
 ## Final mechanical assembly
-![](/images/IMG_20220712_092417.jpg?raw=true "Schematic diagram")
--->
+![](/images/internet-radio1.jpg?raw=true "Front view")
+
