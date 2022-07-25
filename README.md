@@ -59,4 +59,5 @@ Mute sound (use mute button or any button you select)
 
 
 ## Final mechanical assembly
+![](/images/internet_radio.jpg?raw=true "Schematic diagram")
 
