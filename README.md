@@ -35,7 +35,7 @@ https://github.com/arduino-libraries/Ethernet
 
 
 ## Software installation
-1. Install all necessary Arduino software libraries via Arduino IDE Library Manager.
+1. Install all above mentioned Arduino software libraries via Arduino IDE Library Manager.
 
 2. To install Wyatt59 Audioeth ethernet support just do the following:
 Open Arduino/libraries/ESP32-audioI2S/src folder and copy Audioeth.cpp and Audioeth.h files to this folder. So the folder will consist of the following files:
