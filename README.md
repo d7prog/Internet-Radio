@@ -57,7 +57,7 @@ Select station number 1 – 9 (station 10 is 0)<br>
 Increase/decrease volume using Vol+/Vol-<br>
 Mute sound (use mute button or any button you select)
 
-
+[comment]: # (This actually is the most platform independent comment)
 ## Final mechanical assembly
 ![](/images/IMG_20220712_092417.jpg?raw=true "Schematic diagram")
 
