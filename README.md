@@ -62,3 +62,9 @@ Mute sound (use mute button or any button you select)
 ## Final mechanical assembly
 ![](/images/internet-radio1.jpg?raw=true "Front view")
 
+![](/images/internet-radio2.jpg?raw=true "Inside view")
+
+![](/images/internet-radio3.jpg?raw=true "Back view")
+
+
+
