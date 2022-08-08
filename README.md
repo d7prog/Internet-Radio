@@ -44,7 +44,7 @@ Audioeth.cpp<br/>
 Audioeth.h<br/>
 
 2. Create new Arduino sketch called internet_radio_eth_1.1.
-3. Copy all files from the GitHub internet_radio_eth_1.1 folder to newly created Arduino sketch folder (the original  internet_radio_eth_1.0.ino will be rewrited).
+3. Copy all files from the GitHub internet_radio_eth_1.1 folder to newly created Arduino sketch folder (the original  internet_radio_eth_1.1.ino will be rewrited).
 4. Compile and download to ESP32 as usually.
 
 ## Notes
