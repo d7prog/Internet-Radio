@@ -43,14 +43,14 @@ Audio.h<br/>
 Audioeth.cpp<br/>
 Audioeth.h<br/>
 
-2. Create new Arduino sketch called internet_radio_eth_1.0.
-3. Copy all files from the GitHub internet_radio_eth_1.0 folder to newly created Arduino sketch folder (the original  internet_radio_eth_1.0.ino will be rewrited).
+2. Create new Arduino sketch called internet_radio_eth_1.1.
+3. Copy all files from the GitHub internet_radio_eth_1.1 folder to newly created Arduino sketch folder (the original  internet_radio_eth_1.0.ino will be rewrited).
 4. Compile and download to ESP32 as usually.
 
 ## Notes
 Internet radio has 10 preset stations which can be selected using IR remote controller. You can use any old IR remote controller however you need to use correct IR codes.<br>
 For this reason use [ir_decoder](https://github.com/d7prog/Internet-Radio/blob/main/util/ir_decoder.ino) to record codes from the IR controller.<br>
-Than modify the switch → case statements accordingly in the void loop{} function in the internet_radio_eth_1.0.ino file. Codes needs to be in hex format.
+Than modify the switch → case statements accordingly in the void loop{} function in the internet_radio_eth_1.1.ino file. Codes needs to be in hex format.
 
 You can use the following commands:<br>
 Select station number 1 – 9 (station 10 is 0)<br>
